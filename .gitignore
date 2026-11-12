@@ -1,0 +1,7 @@
+# API key — luật lab: không commit key
+.env
+prototype/env.local.js
+
+# Tài liệu đề bài & mẫu của giảng viên — repo nộp chỉ chứa bài của nhóm
+LAB5-full-instructions.md
+prototype-sample/
