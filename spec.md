@@ -5,8 +5,8 @@
 | Họ và Tên | Mã Học Viên | Việc đã làm |
 |---|---|---|
 | Dương Thị Huệ | 2A202603430 | Kịch bản & demo: viết 12 kịch bản §2, khoanh 2 kịch bản đắt nhất và lập luận chọn; viết §1, §6, §7 và kịch bản demo; tạo repo, giữ bảng thành viên |
-| Phan Sỹ Hùng | 2A202603420 | Câu chữ AI & mức tự chủ: viết câu AI nói nguyên văn cho 2 kịch bản đắt nhất, phân loại lỗi, chọn nguyên tắc HAX/PAIR (§3); xếp mức cho 5 tool, đề xuất tách `doi_chuyen_bay` thành 2 bước, thử mức trên 3 kịch bản (§4) |
-| Nguyễn Tiến Hưng | 2A202603365 | Prototype: dựng `prototype/index.html` (2 ca khó, nhật ký policy, màn hình nhân viên, lời gọi Claude API tuỳ chọn), chụp 3 ảnh đánh số, viết §5 |
+| Nguyễn Tiến Hưng | 2A202603420 | Câu chữ AI & mức tự chủ: viết câu AI nói nguyên văn cho 2 kịch bản đắt nhất, phân loại lỗi, chọn nguyên tắc HAX/PAIR (§3); xếp mức cho 5 tool, đề xuất tách `doi_chuyen_bay` thành 2 bước, thử mức trên 3 kịch bản (§4) |
+| Phan Sỹ Hùng | 2A202603365 | Prototype: dựng `prototype/index.html` (2 ca khó, nhật ký policy, màn hình nhân viên, lời gọi Claude API tuỳ chọn), chụp 3 ảnh đánh số, viết §5 |
 
 > Dữ liệu trong bài là dữ liệu dựng của track (đặt chỗ TRV-7Q2K, hãng dựng "Bay Mẫu"). Không chat với sản phẩm thật, không dùng dữ liệu thật.
 
